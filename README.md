@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits é um app para ajudar a reastrear os hábitos.
 
-- [Visite o projeto online](https://renato0922.github.io/nlw-setup)
+- [Visite o projeto online](https://RenatoFillipo0922.github.io/nlw-setup)
 
 ## 🔖 Layout
 
